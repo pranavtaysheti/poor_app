@@ -1,4 +1,4 @@
-package com.example.poor_app
+package com.pranavtaysheti.poor_app
 
 import io.flutter.embedding.android.FlutterActivity
 
